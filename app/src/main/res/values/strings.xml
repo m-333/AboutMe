@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name" >Melek Türüdi</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">
+        selam! Benim adım Melek
+        \n\n Yazılım işi ile ugraşıyorum mobil ve web alanında projeler yapıyorum,
+        \n\n Mobilde swift,Objectiv-c ile ios tarafı için mobil uygulamalar yapıyorum ve aynı zaman da
+        \n\n Kotlin ve java dilini kullanarak da android tarafında da mobil uygulama yazıyorum bunları yaparken
+        \n\n Sqlite, firebase mssql kullanıyorum. Bir yanda da flutter da öğrenerek kendimi geliştiriyorum.
+        \n\n Web tarafında da html, css, javascript, typescript, angular gibi teknolojileri kullanarak projeler geliştiyorum.
+        \n\n projelerimi  açık kaynak kodlu github hesabım da paylaşıyorum
+        \n\n instgram sayfam da ise yazdığım projelerimin nasıl çalıştığını gösteren gönderiler paylaşıyorum
+        \n\n Araştırmayı ve keşfetmeyi bir şeyler yapmayı ve üretmeyi  seviyorum
+        \n\n ve bir türlü metni uzatamıyorum scrollview denemesi için metni uzun yazmam lazım
+        \n\n daha ne anlatsam bilmiyorum kendim ki hakkımda
+        \n\n  dahası işte böyle genel olarak bilgisayar başındayım
+        \n\n müzik dinlemeyi severim
+        \n\n resim yapmayı da severim ama yapmam severim sadece uzaktan öyle seviyorum
+        \n\n
+    </string>
+    <string name="what_is_your_nickname">what is your nickname ?</string>
+    <string name="done">DONE</string>
+</resources>
